@@ -1,5 +1,11 @@
 ## Hi there 👋
+<p> 本アカウント管理者のケン(ken)です！<br>
+My name is Ken (ケン), and I am the owner of this account!<br></p>
+<img src="./images/STARSAPPHIRE.png">
 
+## About Us
+<p> 使用言語パイ等は以下の通りになります。<br>
+I'm using the following programming language.<br></p>
 <p align="left">
   <a href="https://github.com/nokoken">
     <img height="20" src="https://komarev.com/ghpvc/?username=nokoken" />
